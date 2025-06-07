@@ -13,12 +13,3 @@ A sleek and responsive real-time click counter built using **HTML**, **CSS**, an
 - 💡 Clean, modular code that's easy to understand and extend
 
 ---
-
-## 🖼️ Preview
-
-> *(Include a screenshot or a link to GitHub Pages/Live Demo if hosted)*
-
----
-
-## 📂 Project Structure
-
