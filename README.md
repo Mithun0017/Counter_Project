@@ -13,3 +13,11 @@ A sleek and responsive real-time click counter built using **HTML**, **CSS**, an
 - 💡 Clean, modular code that's easy to understand and extend
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Counter.png" width="48%" />
+</p>
+
+---
